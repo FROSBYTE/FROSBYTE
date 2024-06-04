@@ -35,7 +35,7 @@
   <a href="https://www.youtube.com/@frosbyte8575/featured" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/frosbyte_studio?igsh=a2w0dXN6bngybGNu" target="_blank">
+  <a href="https://www.instagram.com/frosbyte_studio?utm_source=qr&igsh=a2w0dXN6bngybGNu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
 </div>
