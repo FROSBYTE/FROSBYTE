@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://img.itch.zone/aW1nLzEwMDI1MjUxLmpwZw==/100x100%23/tSAiQr.jpg"  />
-</div>
-
-###
-
 <h2 align="center">Hey  devs 👋</h2>
 
 ###
