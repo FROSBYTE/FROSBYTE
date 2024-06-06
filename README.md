@@ -40,6 +40,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/FROSBYTE/FROSBYTE/output/snake.svg" alt="Snake animation" />
-
 ###
