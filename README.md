@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am Arjun, and I am a passionate game developer who loves to make games.Since childhood, gaming has been my passion, kindled by moments on my dad's laptop. Wondering about game development led me to choose it as my career, guided by a friend's suggestion. Learning Unity Engine, I started with in-game UI for friends, then progressed to cloning popular games. Though I've learned much, I'm eager for continual growth in game development. Check out my games & projects @ https://frosbyte.itch.io/</h2>
+<h2 align="left">I am Arjun, and I am a passionate game developer who loves to make games.Since childhood, gaming has been my passion, kindled by moments on my dad's laptop. Wondering about game development led me to choose it as my career, guided by a friend's suggestion. Learning Unity Engine, I started with in-game UI for friends, then progressed to cloning popular games. Though I've learned much, I'm eager for continual growth in game development.</h2>
 
 ###
 
@@ -39,5 +39,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/FROSBYTE/FROSBYTE/output/snake.svg" alt="Snake animation" />
 
 ###
