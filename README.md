@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" src="https://media.licdn.com/dms/image/D4E16AQHbONO5t1O2Vw/profile-displaybackgroundimage-shrink_350_1400/0/1664547281630?e=1723075200&v=beta&t=joohGI4RqWTNWbXUZ1x0ngT-hKoExFLEW0G_LEU3dRg"  />
+</div>
+
+###
+
 <h2 align="center">Hey  devs 👋</h2>
 
 ###
@@ -39,9 +45,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/FROSBYTE/FROSBYTE/output/snake.svg" alt="Snake animation" />
 
 ###
