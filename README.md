@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E16AQHbONO5t1O2Vw/profile-displaybackgroundimage-shrink_350_1400/0/1664547281630?e=1723075200&v=beta&t=joohGI4RqWTNWbXUZ1x0ngT-hKoExFLEW0G_LEU3dRg"  />
-</div>
-
 ###
 
 <h2 align="center">Hey  devs 👋</h2>
