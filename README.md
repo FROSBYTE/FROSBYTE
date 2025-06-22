@@ -35,20 +35,6 @@ I publish games and editor tools focused on:
 
 ---
 
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=cs,cpp,unity,firebase&theme=dark" alt="Tech Stack" />
-
-### Development Environment
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github&theme=dark" alt="Development Tools" />
-
-</div>
-
----
-
 ## 🎯 Achievements & Presence
 
 <div align="center">
@@ -79,14 +65,6 @@ I publish games and editor tools focused on:
 <a href="mailto:contact@frosbyte.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-💡 **Always learning. Always shipping.**
 
 </div>
 
