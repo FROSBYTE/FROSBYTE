@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">👋 Hey, I'm Arjun — a game developer passionate about building efficient, immersive experiences with Unity.</h2>
+<h2 align="center">👋 Hey, I'm Arjun — Unity game developer</h2>
 
 ###
 
