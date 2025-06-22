@@ -1,21 +1,28 @@
 ###
 
-<h2 align="center">Hey devs 👋</h2>
+<h2 align="center">👋 Hey, I'm Arjun — a game developer passionate about building efficient, immersive experiences with Unity.</h2>
 
 ###
 
-<h2 align="left">🎮 Welcome to my digital playground! I'm Arjun, where pixels meet passion and code becomes magic ✨
+<div align="left">
+<p>It all started with a simple curiosity as a kid: how are games made? That question led me to Unity. I began by cloning mini-games, designing UI for friends, and learning the ropes — one line of code at a time.</p>
 
-From stealing moments on my dad's laptop as a kid to crafting entire worlds in Unity Engine – my journey began with wonder and grew into purpose. What started as "How do they make these games?" evolved into "Let me show you how I make them!"
+<p>Today, I publish both games and editor tools under Frosbyte Studio, focused on:</p>
 
-🚀 My adventure spans:
-• Designing sleek in-game UIs that make players smile
-• Recreating beloved classics with my own twist
-• Building experiences that transport players to new dimensions
+<p>🛠️ Performance<br>
+⚡ Developer efficiency<br>
+🔄 Seamless integration</p>
 
-Every line of code tells a story, every sprite has a soul, and every game is a bridge between imagination and reality. I'm not just developing games – I'm crafting dreams, one script at a time.
+<p>My tools and projects are live on the Unity Asset Store, Play Store, and Itch.io.</p>
 
-🎯 Currently leveling up my skills and always hungry for the next challenge. Ready to play? Check out my creations at https://frosbyte.itch.io/ and let's build something incredible together!</h2>
+<p>💡 Currently exploring:</p>
+
+<p>Unity (URP + Built-In)<br>
+AI-assisted workflows<br>
+Clean, modular tool design</p>
+
+<p><strong>Always learning. Always shipping.</strong></p>
+</div>
 
 ###
 
@@ -51,6 +58,9 @@ Every line of code tells a story, every sprite has a soul, and every game is a b
   <a href="https://www.instagram.com/frosbyte_studio?utm_source=qr&igsh=a2w0dXN6bngybGNu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://assetstore.unity.com/publishers/113578?preview=1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="40" alt="unity asset store"  />
+  </a>
 </div>
 
-### 
+## 
