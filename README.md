@@ -49,47 +49,6 @@ I publish games and editor tools focused on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-```yaml
-Current Projects:
-  - Unity Editor Tools: "Advanced performance profilers"
-  - Game Development: "Action RPG with custom ECS"
-  - Learning: "AI-assisted workflows & procedural generation"
-  
-Technologies:
-  - Unity: "URP + Built-In pipelines"
-  - Graphics: "Shader optimization & custom rendering"
-  - Architecture: "Clean, modular tool design"
-```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎮 **Game Title** | High-performance action game | Unity, C#, URP |
-| 🛠️ **Unity Tool** | Editor extension for optimization | C#, Unity Editor |
-| 📱 **Mobile Game** | Cross-platform puzzle game | Unity, Firebase |
-
-</div>
-
----
-
 ## 🎯 Achievements & Presence
 
 <div align="center">
@@ -127,11 +86,7 @@ Technologies:
 
 <div align="center">
 
-### 💡 *"Always learning. Always shipping."*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-⭐ **Star my repositories if you find them useful!** ⭐
+💡 **Always learning. Always shipping.**
 
 </div>
 
