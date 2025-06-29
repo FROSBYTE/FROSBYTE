@@ -1,7 +1,7 @@
   
 <div align="center">
 
-<h1 style="border-bottom: none;"><span style="color: #FF6B6B; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Hey, I'm</span> <span style="color: #4ECDC4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Arjun</span> <span style="color: #45B7D1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">a Unity Developer</span></h1>
+<p style="font-size: 2.5em; font-weight: 700; margin: 0; padding: 0;"><span style="color: #FF6B6B; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hey, I'm</span> <span style="color: #4ECDC4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Arjun</span> <span style="color: #45B7D1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">a Unity Developer</span></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Unity+Developer;Game+Creator;Tool+Builder;Always+Learning" alt="Typing SVG" />
 
