@@ -15,7 +15,11 @@
 
 ---
 
+<div align="center">
+
 ## About Me
+
+</div>
 
 <div align="center">
 
@@ -36,56 +40,53 @@ I make casual games and Unity editor tools that improve user productivity.
 
 ---
 
-## 🎯 Achievements & Presence
-
 <div align="center">
-  <h3>🏪 Unity Asset Store | 🎮 Play Store | 🎲 Itch.io</h3>
+
+## 🚀 My Work & Projects
+
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://assetstore.unity.com/publishers/113578?preview=1">
-          <img src="https://img.shields.io/badge/Unity_Asset_Store-PUBLISHER-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://play.google.com/store/apps/developer?id=Frosbyte+Studio">
-          <img src="https://img.shields.io/badge/Google_Play-DEVELOPER-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://frosbyte.itch.io/">
-          <img src="https://img.shields.io/badge/Itch.io-DEVELOPER-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+<a href="https://assetstore.unity.com/publishers/113578?preview=1">
+  <img src="https://img.shields.io/badge/Unity_Asset_Store-PUBLISHER-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/dev?id=6062189599073712115">
+  <img src="https://img.shields.io/badge/Google_Play-DEVELOPER-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://frosbyte.itch.io/">
+  <img src="https://img.shields.io/badge/Itch.io-DEVELOPER-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+</a>
+
 </div>
 
----
+<br>
+
+<div align="center">
 
 ## 🤝 Let's Connect!
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/arjun-m-226b9624b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/@frosbyte8575/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/frosbyte_studio?utm_source=qr&igsh=a2w0dXN6bngybGNu">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:contact@frosbyte.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
