@@ -49,28 +49,34 @@ I make casual games and Unity editor tools that improve user productivity.
 <table>
 <tr>
 <td align="center" width="33%">
+<div align="center">
 <h3>Unity Asset Store</h3>
 <a href="https://assetstore.unity.com/publishers/113578?preview=1">
 <img src="https://img.shields.io/badge/PUBLISHER-4285F4?style=for-the-badge&logoColor=white" alt="Publisher"/>
 </a>
 <br><br>
 <em>Editor Tools</em>
+</div>
 </td>
 <td align="center" width="33%">
+<div align="center">
 <h3>Google Play</h3>
 <a href="https://play.google.com/store/apps/dev?id=6062189599073712115">
 <img src="https://img.shields.io/badge/DEVELOPER-34A853?style=for-the-badge&logoColor=white" alt="Developer"/>
 </a>
 <br><br>
 <em>Casual mobile games</em>
+</div>
 </td>
 <td align="center" width="33%">
+<div align="center">
 <h3>Itch.io</h3>
 <a href="https://frosbyte.itch.io/">
 <img src="https://img.shields.io/badge/CREATOR-FA5C5C?style=for-the-badge&logoColor=white" alt="Creator"/>
 </a>
 <br><br>
 <em>Indie game projects</em>
+</div>
 </td>
 </tr>
 </table>
