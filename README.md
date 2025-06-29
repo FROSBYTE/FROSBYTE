@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<p style="font-size: 2em; font-weight: 700; margin: 20px 0;">About Me</p>
+<p style="font-size: 30px; font-weight: 700; margin: 20px 0;">About Me</p>
 
 <div align="center">
 
@@ -25,7 +25,7 @@ I'm continuously exploring new technologies that align with my interests and hel
 
 <div align="center">
 
-<p style="font-size: 2em; font-weight: 700; margin: 20px 0;">What I Do</p>
+<p style="font-size: 30px; font-weight: 700; margin: 20px 0;">What I Do</p>
 
 <br>
 
