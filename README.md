@@ -5,9 +5,7 @@
 
 <div align="center">
   
-# Hello, I'm Arjun
-
-**Unity Developer**
+# Hey, I'm <span style="color: #6366F1; font-weight: bold;">Arjun</span> a <span style="color: #10B981; font-weight: bold;">Unity Developer</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Unity+Developer;Game+Creator;Tool+Builder;Always+Learning" alt="Typing SVG" />
 
