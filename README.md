@@ -5,7 +5,7 @@
 
 <div align="center">
   
-# Hey, I'm <span style="color: #6366F1; font-weight: bold;">Arjun</span> a <span style="color: #10B981; font-weight: bold;">Unity Developer</span>
+# <span style="color: #FF6B6B; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Hey, I'm</span> <span style="color: #4ECDC4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Arjun</span> <span style="color: #45B7D1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">a Unity Developer</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Unity+Developer;Game+Creator;Tool+Builder;Always+Learning" alt="Typing SVG" />
 
@@ -31,14 +31,44 @@ Today, I actively develop and release both games and Unity plugins on the Play S
 
 I'm continuously exploring new technologies that align with my interests and help expand my creative and technical capabilities.
 
-### What I Do
-- **Game Development** - Creating engaging experiences with Unity
-- **Editor Tools** - Building productivity tools for developers
-- **Cross-Platform** - From mobile to desktop applications
-- **Performance Optimization** - Making games run smoother and faster
+<div align="center">
 
-### Frosbyte Studio
-I make casual games and Unity editor tools that improve user productivity.
+## What I Do
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🎯 Game Development</h3>
+<p>Creating engaging experiences with Unity</p>
+</td>
+<td align="center" width="50%">
+<h3>⚡ Editor Tools</h3>
+<p>Building productivity tools for developers</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>📱 Cross-Platform</h3>
+<p>From mobile to desktop applications</p>
+</td>
+<td align="center" width="50%">
+<h3>🚀 Performance Optimization</h3>
+<p>Making games run smoother and faster</p>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+## Frosbyte Studio
+
+**I make casual games and Unity editor tools that improve user productivity.**
+
+</div>
 
 <div align="center">
 
@@ -85,44 +115,42 @@ I make casual games and Unity editor tools that improve user productivity.
 
 ## Let's Connect!
 
-<table>
-<tr>
-<td align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+<div align="center" style="margin: 10px;">
 <a href="https://www.linkedin.com/in/arjun-m-226b9624b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="border-radius: 8px;"/>
 </a>
-<br>
-<sub><strong>Professional Network</strong></sub>
-</td>
-<td width="20"></td>
-<td align="center">
+<br><br>
+<strong style="color: #0077B5;">Professional Network</strong>
+</div>
+
+<div align="center" style="margin: 10px;">
 <a href="https://www.youtube.com/@frosbyte8575/featured">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" style="border-radius: 8px;"/>
 </a>
-<br>
-<sub><strong>Dev Tutorials</strong></sub>
-</td>
-<td width="20"></td>
-<td align="center">
+<br><br>
+<strong style="color: #FF0000;">Dev Tutorials</strong>
+</div>
+
+<div align="center" style="margin: 10px;">
 <a href="https://www.instagram.com/frosbyte_studio?utm_source=qr&igsh=a2w0dXN6bngybGNu">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius: 8px;"/>
 </a>
-<br>
-<sub><strong>Behind the Scenes</strong></sub>
-</td>
-<td width="20"></td>
-<td align="center">
+<br><br>
+<strong style="color: #E4405F;">Behind the Scenes</strong>
+</div>
+
+<div align="center" style="margin: 10px;">
 <a href="mailto:contact@frosbyte.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="border-radius: 8px;"/>
 </a>
-<br>
-<sub><strong>Get in Touch</strong></sub>
-</td>
-</tr>
-</table>
+<br><br>
+<strong style="color: #D14836;">Get in Touch</strong>
+</div>
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div> 
+</div>
+
+ 
