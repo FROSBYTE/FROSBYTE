@@ -5,11 +5,11 @@
 
 <div align="center">
   
-# 👋 Hello, I'm Arjun
+# Hello, I'm Arjun
 
-### Unity Developer
+**Unity Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Editor+Tools+Creator;Performance+Optimizer;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Unity+Developer;Game+Creator;Tool+Builder;Always+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -27,35 +27,37 @@
 
 </div>
 
-That question led me to Unity, and I've been passionate about game development ever since. Starting with cloning mini-games and designing UI for friends, I've evolved into creating professional tools and games that thousands of developers use worldwide.
+My passion for gaming began in childhood, inspired by early experiences playing on my father's laptop. What started as curiosity gradually evolved into a focused career in game development—driven by a deep interest in building, experimenting, and crafting engaging digital experiences. I began my journey with Unity by recreating popular mini-games to strengthen my fundamentals, eventually progressing to publishing original games and tools.
+
+Today, I actively develop and release both games and Unity plugins on the Play Store and Unity Asset Store. My core expertise lies in Unity, C#, third-party plugin integration, and the use of AI tools to streamline and enhance development workflows. I focus on creating developer-friendly assets that are practical, efficient, and purpose-driven.
+
+I'm continuously exploring new technologies that align with my interests and help expand my creative and technical capabilities.
 
 ### What I Do
-- 🎮 **Game Development** - Creating engaging experiences with Unity
-- 🛠️ **Editor Tools** - Building productivity tools for developers
-- 📱 **Cross-Platform** - From mobile to desktop applications
-- ⚡ **Performance Optimization** - Making games run smoother and faster
+- **Game Development** - Creating engaging experiences with Unity
+- **Editor Tools** - Building productivity tools for developers
+- **Cross-Platform** - From mobile to desktop applications
+- **Performance Optimization** - Making games run smoother and faster
 
 ### Frosbyte Studio
 I make casual games and Unity editor tools that improve user productivity.
 
----
-
 <div align="center">
 
-## 🚀 My Work & Projects
+## My Work & Projects
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🏪 Unity Asset Store</h3>
+<h3>Unity Asset Store</h3>
 <a href="https://assetstore.unity.com/publishers/113578?preview=1">
 <img src="https://img.shields.io/badge/PUBLISHER-4285F4?style=for-the-badge&logoColor=white" alt="Publisher"/>
 </a>
 <br><br>
-<em>Professional Unity tools</em>
+<em>Editor Tools</em>
 </td>
 <td align="center" width="33%">
-<h3>🎮 Google Play</h3>
+<h3>Google Play</h3>
 <a href="https://play.google.com/store/apps/dev?id=6062189599073712115">
 <img src="https://img.shields.io/badge/DEVELOPER-34A853?style=for-the-badge&logoColor=white" alt="Developer"/>
 </a>
@@ -63,7 +65,7 @@ I make casual games and Unity editor tools that improve user productivity.
 <em>Casual mobile games</em>
 </td>
 <td align="center" width="33%">
-<h3>🎲 Itch.io</h3>
+<h3>Itch.io</h3>
 <a href="https://frosbyte.itch.io/">
 <img src="https://img.shields.io/badge/CREATOR-FA5C5C?style=for-the-badge&logoColor=white" alt="Creator"/>
 </a>
@@ -75,11 +77,9 @@ I make casual games and Unity editor tools that improve user productivity.
 
 </div>
 
-<br>
-
 <div align="center">
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <table>
 <tr>
@@ -118,8 +118,6 @@ I make casual games and Unity editor tools that improve user productivity.
 </table>
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
