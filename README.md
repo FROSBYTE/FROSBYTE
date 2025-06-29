@@ -1,10 +1,6 @@
-<!--
-  Professional GitHub Profile README
-  Designed for Arjun - Unity Game Developer & Frosbyte Studio
--->
-
-<div align="center">
   
+<div align="center">
+
 # <span style="color: #FF6B6B; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Hey, I'm</span> <span style="color: #4ECDC4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">Arjun</span> <span style="color: #45B7D1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">a Unity Developer</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Unity+Developer;Game+Creator;Tool+Builder;Always+Learning" alt="Typing SVG" />
