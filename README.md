@@ -35,40 +35,13 @@ I'm continuously exploring new technologies that align with my interests and hel
 
 ## What I Do
 
-</div>
+<br>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<h3>🎯 Game Development</h3>
-<p>Creating engaging experiences with Unity</p>
-</td>
-<td align="center" width="50%">
-<h3>⚡ Editor Tools</h3>
-<p>Building productivity tools for developers</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<h3>📱 Cross-Platform</h3>
-<p>From mobile to desktop applications</p>
-</td>
-<td align="center" width="50%">
-<h3>🚀 Performance Optimization</h3>
-<p>Making games run smoother and faster</p>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-## Frosbyte Studio
-
-**I make casual games and Unity editor tools that improve user productivity.**
+**Game Development** • **Editor Tools** • **Cross-Platform** • **Performance Optimization**
 
 </div>
+
+
 
 <div align="center">
 
@@ -113,43 +86,25 @@ I'm continuously exploring new technologies that align with my interests and hel
 
 <div align="center">
 
-## Let's Connect!
+## Let's Connect
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<br>
 
-<div align="center" style="margin: 10px;">
 <a href="https://www.linkedin.com/in/arjun-m-226b9624b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<br><br>
-<strong style="color: #0077B5;">Professional Network</strong>
-</div>
-
-<div align="center" style="margin: 10px;">
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/@frosbyte8575/featured">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<br><br>
-<strong style="color: #FF0000;">Dev Tutorials</strong>
-</div>
-
-<div align="center" style="margin: 10px;">
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/frosbyte_studio?utm_source=qr&igsh=a2w0dXN6bngybGNu">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<br><br>
-<strong style="color: #E4405F;">Behind the Scenes</strong>
-</div>
-
-<div align="center" style="margin: 10px;">
+&nbsp;&nbsp;
 <a href="mailto:contact@frosbyte.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<br><br>
-<strong style="color: #D14836;">Get in Touch</strong>
-</div>
-
-</div>
 
 </div>
 
