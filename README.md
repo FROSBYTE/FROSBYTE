@@ -28,8 +28,6 @@ I'm continuously exploring new technologies that align with my interests and hel
 
 ## What I Do
 
-<br>
-
 **Game Development** • **Editor Tools** • **Cross-Platform** • **Performance Optimization**
 
 </div>
