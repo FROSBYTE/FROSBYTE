@@ -7,7 +7,7 @@
   
 # 👋 Hello, I'm Arjun
 
-### Unity Game Developer | Founder @ Frosbyte Studio | Performance Enthusiast
+### Unity Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Editor+Tools+Creator;Performance+Optimizer;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
@@ -15,9 +15,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+
+<div align="center">
 
 > *"It all started with a simple curiosity as a kid: how are games made?"*
+
+</div>
 
 That question led me to Unity, and I've been passionate about game development ever since. Starting with cloning mini-games and designing UI for friends, I've evolved into creating professional tools and games that thousands of developers use worldwide.
 
@@ -28,23 +32,36 @@ That question led me to Unity, and I've been passionate about game development e
 - ⚡ **Performance Optimization** - Making games run smoother and faster
 
 ### 🏢 Frosbyte Studio
-I publish games and editor tools focused on:
-- **Performance** - Every frame matters
-- **Developer Efficiency** - Tools that save time
-- **Seamless Integration** - Plug-and-play solutions
+I make casual games and Unity editor tools that improve user productivity.
 
 ---
 
 ## 🎯 Achievements & Presence
 
 <div align="center">
+  <h3>🏪 Unity Asset Store | 🎮 Play Store | 🎲 Itch.io</h3>
+</div>
 
-### 🏪 **Unity Asset Store** | 🎮 **Play Store** | 🎲 **Itch.io**
-
-[![Unity Asset Store](https://img.shields.io/badge/Unity_Asset_Store-Publisher-blue?style=for-the-badge&logo=unity)](https://assetstore.unity.com/publishers/113578?preview=1)
-[![Play Store](https://img.shields.io/badge/Google_Play-Developer-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/developer?id=Frosbyte+Studio)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Developer-red?style=for-the-badge&logo=itch.io)](https://frosbyte.itch.io/)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://assetstore.unity.com/publishers/113578?preview=1">
+          <img src="https://img.shields.io/badge/Unity_Asset_Store-PUBLISHER-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/developer?id=Frosbyte+Studio">
+          <img src="https://img.shields.io/badge/Google_Play-DEVELOPER-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://frosbyte.itch.io/">
+          <img src="https://img.shields.io/badge/Itch.io-DEVELOPER-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
